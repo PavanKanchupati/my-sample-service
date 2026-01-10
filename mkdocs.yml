@@ -1,0 +1,3 @@
+site_name: My Sample Service Docs
+nav:
+  - Home: index.md
