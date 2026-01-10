@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: PavanKanchupati/my-sample-service
     backstage.io/techdocs-ref: dir:.
+     github.com/workflows: CI
 spec:
   type: service
   lifecycle: experimental
