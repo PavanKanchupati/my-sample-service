@@ -5,7 +5,7 @@ metadata:
   description: Sample service onboarded into Backstage
   annotations:
     github.com/project-slug: PavanKanchupati/my-sample-service
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: dir: .
      github.com/workflows: CI
 spec:
   type: service
